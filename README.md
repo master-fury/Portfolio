@@ -1,3 +1,3 @@
 # portfolio
-My portfolio for Commutatus
-Made with Love by Manish Kumar
+My portfolio 
+Made with ❤ by Manish Kumar
